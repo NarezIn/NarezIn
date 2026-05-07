@@ -1,4 +1,6 @@
 # Top Languages
+- English, Chinese
+- and then...
 ![Top Languages](github-languages.svg)
 
 # Stats
