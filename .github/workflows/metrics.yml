@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: GitHub Stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NarezIn
@@ -20,7 +20,7 @@ jobs:
           filename: github-stats.svg
 
       - name: Coding Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NarezIn
@@ -31,7 +31,7 @@ jobs:
           filename: github-habits.svg
 
       - name: Top Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NarezIn
