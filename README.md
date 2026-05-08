@@ -6,5 +6,5 @@
 ## Stats
 ![GitHub Stats](github-stats.svg)
 
-## Coding Habits
-![Coding Habits](github-habits.svg)
+<!-- ## Coding Habits
+![Coding Habits](github-habits.svg) -->
